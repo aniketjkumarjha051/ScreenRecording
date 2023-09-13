@@ -1,0 +1,20 @@
+#video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+  }
+  
+  video {
+    border: 2px solid #333;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
+  #controls {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
